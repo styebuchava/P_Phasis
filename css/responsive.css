@@ -171,3 +171,13 @@
     font-size: 17px;
   }
 }
+@media (max-height:630px){
+  nav ul li {
+    margin: 35px 20px;
+  }
+}
+@media (max-height:606px){
+  .banner-text {
+    padding-top: 150px;
+}
+}
