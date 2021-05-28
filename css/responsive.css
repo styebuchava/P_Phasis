@@ -1,0 +1,173 @@
+@media (max-width: 770px) {
+  .banner-text h1 {
+    font-size: 44px;
+    font-family: "Kaushan Script";
+  }
+  .banner-button {
+    display: block;
+  }
+  .banner-button a {
+    display: block;
+    margin: 20px auto;
+  }
+}
+@media (max-width: 390px) {
+  .fa-city {
+    font-size: 35px;
+  }
+  .fazisi {
+    font-size: 35px;
+    margin-left: 10px;
+  }
+  .logo {
+    top: 30px;
+  }
+}
+@media (max-width: 1485px) {
+  .img-box {
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+  }
+  .etimology-img {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 100%;
+  }
+  .etimologys {
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (max-width: 560px) {
+  .etimologys p {
+    font-size: 20px;
+  }
+  .etimology-img {
+    width: 100%;
+    height: 400px;
+  }
+  .img {
+    width: 300px;
+    height: 330px;
+  }
+  .title-text h1 {
+    font-size: 40px;
+  }
+  .about-col p {
+    font-size: 16px;
+  }
+  .about-col {
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+  }
+  .container {
+    height: 100vh;
+  }
+}
+
+@media (max-width: 370px) {
+  .title-text h1 {
+    font-size: 30px;
+  }
+  .img {
+    width: 270px;
+    height: 300px;
+  }
+}
+
+@media (max-width: 1370px) {
+  .about-row {
+    width: 100%;
+    -webkit-box-pack: space-evenly;
+    -ms-flex-pack: space-evenly;
+    justify-content: space-evenly;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+  .about-col {
+    -ms-flex-preferred-size: 60%;
+    flex-basis: 60%;
+  }
+}
+
+@media (max-width: 540px) {
+  .about-col {
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+  }
+  .container-input {
+    max-width: 100%;
+  }
+  form .user-details .input-box {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  form .gender-dt .kategoria {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+  }
+}
+@media (max-width: 770px) {
+  .footer-left,
+  .footer-right {
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    font-size: 14px;
+    text-align: center;
+  }
+  .container-input form .user-details {
+    max-height: 300px;
+    overflow-y: scroll;
+  }
+}
+@media (max-width: 1700px) {
+  .history-text {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 1365px) {
+  .history-text {
+    font-size: 18px;
+  }
+}
+@media (max-width: 1105px) {
+  .history-text {
+    font-size: 18px;
+  }
+  .containerin {
+    width: 90%;
+  }
+  .container {
+    width: 100%;
+  }
+}
+@media (max-width: 815px) {
+  .history-text {
+    max-height: 450px;
+    height: 100%;
+    overflow-y: scroll;
+  }
+  .containerin {
+    max-height: 300px;
+    height: 100%;
+  }
+}
+@media (max-width: 1390px) {
+  .history-text {
+    font-size: 18px;
+  }
+}
+@media (max-width: 400px) {
+  .history-text {
+    font-size: 14px;
+  }
+}
+@media (max-width: 1150px) {
+  .history-text {
+    font-size: 17px;
+  }
+}
